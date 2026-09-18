@@ -83,7 +83,7 @@ MDN Web Docs. 2026. CSS Grid Layout and Responsive Design. Available online at d
 W3Schools. 2026. HTML5 Standard Elements. Available online at w3schools.com.
 
 
-3. External Assets:
+4. External Assets:
 Google Maps API for the location map embed.
 Social media icons sourced for educational project use.
 
